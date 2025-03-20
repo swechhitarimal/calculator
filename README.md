@@ -4,7 +4,7 @@ A simple calculator that supports basic arithmetic operations and includes a the
 
 ## Features
 - Perform basic arithmetic operations (addition, subtraction, multiplication, division)
-- Switch between light, dark, and custom themes.
+- Switch between light and dark themes.
 
 ## Technologies
 - HTML
